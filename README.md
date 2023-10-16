@@ -1,0 +1,3 @@
+# Recurrent Neural Network Model - From scratch - Easy with python
+
+In process...

@@ -1,5 +1,5 @@
 # Author: Anvi Alex Eponon
-# Task : Build a Recurent Neural Network from Scratch
+# Task : Build a Recurrent Neural Network from Scratch
 # --------
 
 
